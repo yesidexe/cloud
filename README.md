@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cloud
 
 ## Introducción
@@ -9,3 +10,6 @@ Ideal para: desarrolladores que quieren enfocarse en construir apps sin gestiona
 - **SaaS (Software as a Service)**: El proveedor te da todo listo: infraestructura + plataforma + aplicación. Tú solo lo usas por medio de un navegador o app. (Por ejemplo: *Gmail*,*Google Docs*,*Zoom*)      
 Ideal para: usuarios finales que solo necesitan usar el software.
 
+=======
+# Cloud
+>>>>>>> 766eb1582d41392c8db8a4c97d2b6da5bc9519cb
