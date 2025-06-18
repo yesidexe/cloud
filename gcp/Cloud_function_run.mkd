@@ -1,0 +1,6 @@
+# Cloud Function / Cloud Run
+
+## Notas (luego se puede borrar)
+- Se activa por eventoso, por ejemplo del cloud storage, pub/sub, firestore.
+- Se dispara por triggers
+- Un ejemplo seria un app que sube imagenes a cloud storage, se peude configurar una cloud function que redimensione la imagen, en este caso el **evneto** es la carga de la imagen, y el disparador se configura para activar la funcion de redimensionamiento.
